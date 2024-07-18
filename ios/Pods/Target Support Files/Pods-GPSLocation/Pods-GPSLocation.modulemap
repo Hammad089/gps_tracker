@@ -1,0 +1,6 @@
+module Pods_GPSLocation {
+  umbrella header "Pods-GPSLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}

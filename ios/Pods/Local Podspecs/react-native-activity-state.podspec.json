@@ -1,0 +1,21 @@
+{
+  "name": "react-native-activity-state",
+  "version": "0.1.1",
+  "summary": "pending",
+  "homepage": "https://github.com/quan2nd/react-native-activity-state#readme",
+  "license": "MIT",
+  "authors": "quan2nd <anhquan1094@gmail.com> (https://github.com/quan2nd)",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/quan2nd/react-native-activity-state.git",
+    "tag": "0.1.1"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

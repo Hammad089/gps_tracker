@@ -1,0 +1,5 @@
+<resources>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="alert_background">#ffffff</color>
+    <color name="alert_text">#000000</color>
+</resources>

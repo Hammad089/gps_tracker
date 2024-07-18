@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/aspple/repos/hammad-gps-tracker/android/app"
+    name=":app"
+    type="APP"
+    maven="GPSLocation:app:"
+    agpVersion="8.1.1"
+    buildFolder="build"
+    bootClassPath="/Users/aspple/Library/Android/sdk/platforms/android-34/android.jar:/Users/aspple/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

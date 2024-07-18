@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710113224772",
+    "project_id": "gps-tracker-a4c52",
+    "storage_bucket": "gps-tracker-a4c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710113224772:android:79167fde99e74a68d93411",
+        "android_client_info": {
+          "package_name": "com.gpstracker.number.locationtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbiXry7dFWzi6NXld5ZU0PIX6tuO4JPQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

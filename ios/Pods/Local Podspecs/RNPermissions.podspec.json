@@ -1,0 +1,45 @@
+{
+  "name": "RNPermissions",
+  "version": "4.1.0",
+  "license": "MIT",
+  "summary": "An unified permissions API for React Native on iOS, Android and Windows",
+  "authors": "Mathieu Acthernoene <zoontek@gmail.com>",
+  "homepage": "https://github.com/zoontek/react-native-permissions#readme",
+  "platforms": {
+    "ios": "12.4",
+    "tvos": "12.4"
+  },
+  "requires_arc": true,
+  "source": {
+    "git": "https://github.com/zoontek/react-native-permissions.git",
+    "tag": "4.1.0"
+  },
+  "source_files": [
+    "ios/*.{h,m,mm}",
+    "ios/StoreKit/*.{h,m,mm}",
+    "ios/FaceID/*.{h,m,mm}",
+    "ios/Calendars/*.{h,m,mm}",
+    "ios/LocationAlways/*.{h,m,mm}",
+    "ios/PhotoLibraryAddOnly/*.{h,m,mm}",
+    "ios/Microphone/*.{h,m,mm}",
+    "ios/SpeechRecognition/*.{h,m,mm}",
+    "ios/LocationWhenInUse/*.{h,m,mm}",
+    "ios/PhotoLibrary/*.{h,m,mm}",
+    "ios/Camera/*.{h,m,mm}",
+    "ios/Contacts/*.{h,m,mm}",
+    "ios/Motion/*.{h,m,mm}",
+    "ios/CalendarsWriteOnly/*.{h,m,mm}",
+    "ios/AppTrackingTransparency/*.{h,m,mm}",
+    "ios/LocationAccuracy/*.{h,m,mm}",
+    "ios/Bluetooth/*.{h,m,mm}",
+    "ios/Siri/*.{h,m,mm}",
+    "ios/MediaLibrary/*.{h,m,mm}",
+    "ios/Notifications/*.{h,m,mm}",
+    "ios/Reminders/*.{h,m,mm}"
+  ],
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

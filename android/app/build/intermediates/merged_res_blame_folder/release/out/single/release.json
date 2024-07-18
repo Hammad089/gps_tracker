@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.gpslocation.app-merged_res-54:/layout_launch_screen.xml.flat",
+        "source": "com.gpslocation.app-main-55:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_permission.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_permission.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/font_inter_bold.xml.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/font/inter_bold.xml"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_compassss.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_compassss.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_south_korea.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_south_korea.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_japan.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_japan.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_carlocaton.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_carlocaton.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_pourtgal.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_pourtgal.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_node_modules_reactnativebiglist_dist_commonjs_assets_placeholder.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/node_modules_reactnativebiglist_dist_commonjs_assets_placeholder.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_splashicon2.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_splashicon2.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_stationalert.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_stationalert.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/layout_launch_screen.xml.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_svgs_map.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_svgs_map.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_usa.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_usa.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/raw_gps_splash_loading.json.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/raw/gps_splash_loading.json"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_numbertracker.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_numbertracker.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_france.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_france.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_spain.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_spain.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_india.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_india.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_pakistan.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_pakistan.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable-mdpi_src_assets_images_gpstracker1.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-res-48:/drawable-mdpi/src_assets_images_gpstracker1.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-merged_res-54:/drawable_splash_icon.png.flat",
+        "source": "/Users/aspple/.gradle/daemon/8.3/com.gpslocation.app-main-55:/drawable/splash_icon.png"
+    }
+]

@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
+color alert_background
+color alert_text
+color ic_launcher_background
+drawable rn_edit_text_material
+drawable splash_icon
+font inter_bold
+id animationView
+id iv_app_icon
+id ll_app_title
+id tv_app_title1
+id tv_app_title2
+id tv_app_title3
+integer react_native_dev_server_port
+integer react_native_inspector_proxy_port
+layout launch_screen
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+raw gps_splash_loading
+string app_name
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
+string tracker
+style AdTheme
+style AlertDialogTheme
+style AppTheme

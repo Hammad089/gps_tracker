@@ -1,0 +1,1 @@
+../../../../../node_modules/@quan2nd/react-native-activity-state/ios/ActivityState.h
